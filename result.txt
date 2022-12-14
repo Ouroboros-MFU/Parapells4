@@ -1,0 +1,9 @@
+500 False
+750 False
+1000 False
+1250 False
+1500 False
+1750 False
+2000 False
+2250 False
+2500 True
